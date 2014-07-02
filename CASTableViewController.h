@@ -1,5 +1,5 @@
 //
-//  HHViewController.h
+//  CASTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Chad Smith on 7/1/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface HHViewController : UIViewController
+@interface CASTableViewController : UITableViewController
 
 @end
